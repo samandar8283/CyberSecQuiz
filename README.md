@@ -21,7 +21,7 @@ Sayt zamonaviy dizayn, tezkor ishlash va qulay interfeysga ega bo‘lib, o‘rga
 
 ## 🔗 Veb-sayt
 
-👉 [Saytga tashrif buyurish](https://cybersecquiz.netlify.app)
+👉 [Saytga tashrif buyurish](https://cybersecquiz-test.netlify.app)
 
 ## 👨‍💻 Muallif
 
@@ -53,7 +53,7 @@ The project features a modern UI, fast performance, and a user-friendly experien
 
 ## 🔗 Website
 
-👉 [Visit website](https://cybersecquiz.netlify.app)
+👉 [Visit website](https://cybersecquiz-test.netlify.app)
 
 ## 👨‍💻 Author
 
