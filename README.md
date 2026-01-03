@@ -17,7 +17,7 @@ Sayt zamonaviy dizayn, tezkor ishlash va qulay interfeysga ega bo‘lib, o‘rga
 - ⚡ **Tezkor va yengil interfeys** — Vite + React asosida  
 - 📱 **Moslashuvchan dizayn** — mobil va desktop qurilmalarda qulay  
 - 🎨 **Zamonaviy UI** — Tailwind CSS yordamida  
-- 🔐 **Ta’limiy yo‘nalish** — cybersecurity asoslarini mustahkamlash
+- 🔐 **Ta’limiy yo‘nalish** — kiberxavfsizlik asoslarini mustahkamlash
 
 ## 🔗 Veb-sayt
 
