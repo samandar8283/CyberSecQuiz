@@ -18,6 +18,9 @@ export default {
       },
     },
     extend: {
+      screens: {
+        "xs": "556px",
+      },
       fontFamily: {
         mono: ["JetBrains Mono", "Fira Code", "monospace"],
       },

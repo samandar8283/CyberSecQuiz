@@ -106,16 +106,16 @@ const Results = ({ score, answers, onRestart }: ResultsProps) => {
           <div className="flex justify-center gap-4 pt-4">
             <button
               onClick={onRestart}
-              className="flex items-center gap-2 px-6 py-3 bg-muted text-foreground font-medium rounded-lg transition-all duration-300 hover:bg-muted/80 border border-border"
+              className="flex items-center gap-2 px-4 xs:px-6 py-3 bg-muted text-foreground font-medium rounded-lg transition-all duration-300 hover:bg-muted/80 border border-border"
             >
-              <RotateCcw className="w-4 h-4" />
+              <RotateCcw className="w-8 h-8 xs:w-6 xs:h-6" />
               <span>Qayta boshlash</span>
             </button>
             <button
               onClick={handleShare}
-              className="flex items-center gap-2 px-6 py-3 bg-primary text-primary-foreground font-medium rounded-lg transition-all duration-300 hover:bg-primary/90 glow-box"
+              className="flex items-center gap-2 px-4 xs:px-6 py-3 bg-primary text-primary-foreground font-medium rounded-lg transition-all duration-300 hover:bg-primary/90 glow-box"
             >
-              <Share2 className="w-4 h-4" />
+              <Share2 className="w-8 h-8 xs:w-6 xs:h-6" />
               <span>Natijani ulashish</span>
             </button>
           </div>
